@@ -57,16 +57,18 @@ url:https://arxiv.org/pdf/1511.08630.pdf
 
 - *If you are going to follow up on this project please cite this work using the following bibtext:*
 
+```
 @inproceedings{Elaraby2018,
   title={Deep Models for Arabic Dialect Identification on Benchmarked Data},
   author={Elaraby, Mohamed and Abdul-Mageed, Muhammad},
   booktitle={Proceedings of the Fifth Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial5)},
   year={2018}
 }
+```
 
 # External Embedding Models #
 
-- For Arabic Dialects we release 2 embedding models 
+- For Arabic Dialects, we release 2 embedding models 
 - AOC embedding: Download in url: [link] https://drive.google.com/open?id=1QEg9HotnTCI45-PT52g445bp5qYQ4RSm
 - Twitter Embedding Model: Download in url: [link]  https://drive.google.com/open?id=1hEuNHn2PA7kIf1IK0FUGUskA77YZJ3vO
  - cite the following paper if you are planning to use city level dialect embedding model: 
